@@ -35,7 +35,7 @@
 ### Used For
 | Projets | Description |
 | :------------ | :------------ |
-| [Industria Coiffure](https://www.industriacoiffure.ca/) |  some text  |
+| [Industria Coiffure](https://www.industriacoiffure.ca/) |   Le défi de ce projet aura été la gestion des marques.  Nous ne devions pas complexifier l'arborescence des catégories. Les marques ont donc dû être défini par un attribut. Nous devions permettre au utilisateur du site d'accéder au produit d'une certaine marque via un lien dans le menu principal.  J'ai dû modifier le comportement de la page produit de Magento afin qu'il puisse accepter plus d'un filtre attribut.  Un router custom aura été nécessaire afin de cacher les paramètres de filtre de l'URL et de donnés l'impression que nous sommes sur une page catégorie. |
 | [Outillage Placide Mathieu](https://placide.com/) |  some text  |
 | [Techniseal](https://techniseal.com/) |  some text  |
 | [Olymel Food Service](https://olymelfoodservice.com/fr/) |  some text  |
