@@ -35,6 +35,7 @@
 ### Used For
 | Projets | Description |
 | :------------ | :------------ |
+| [Sylvie Dubois Design](https://sylviedubois.design/) | Projet 100% Cédrick Plante, 0$/mois pour l'hébergement. Le logo créé avec Illustrator et le design avec [Figma](https://www.figma.com/) ont été présenté au client avant d'entreprendre le code. [Contentful](https://www.contentful.com/) agit comme un cms, mais aussi comme une interface permetant de modifier l'apparence du site. J'utilise [VueJs](https://vuejs.org/) comme framework de templating. [Netlify](https://www.netlify.com/) permet d'héberger le code et d'envoyer une notification lorsque le formulaire est rempli. Lors du build, les donnés et assets vitals sont téléchargé via [Contentful](https://www.contentful.com/)
 | [Industria Coiffure](https://www.industriacoiffure.ca/) |   Le défi de ce projet aura été la gestion des marques.  Nous ne devions pas complexifier l'arborescence des catégories. Les marques ont donc dû être défini par un attribut. Nous devions permettre au utilisateur du site d'accéder au produit d'une certaine marque via un lien dans le menu principal.  J'ai dû modifier le comportement de la page produit de Magento afin qu'il puisse accepter plus d'un filtre attribut.  Un router custom aura été nécessaire afin de cacher les paramètres de filtre de l'URL et de donnés l'impression que nous sommes sur une page catégorie. |
 | [Outillage Placide Mathieu](https://placide.com/) |  some text  |
 | [Techniseal](https://techniseal.com/) |  some text  |
@@ -47,7 +48,8 @@
 | Déployment POS |  Some text |
 | Démenagement Parc Informatique |  some text  |
 | Déployment Téléphonie IP [3CX](https://www.3cx.com/) |  some text  |
-|  Déployment Accès Électronique [Kaba](https://www.dormakaba.com/) |  some text  |
+| Déployment Accès Électronique [Kaba](https://www.dormakaba.com/) |  some text  |
+
 
 ### Used By
 |  Compagnie  |  Poste  |  De  |  À  |  Description  |
