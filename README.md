@@ -31,6 +31,23 @@
 	+ ##### Netlify
 	+ ##### MailChimp 
 	+ ##### Git
+	
+### Used For
+| Projets | Description |
+| :------------ | :------------ |
+| [Industria Coiffure](https://www.industriacoiffure.ca/) |  some text  |
+| [Outillage Placide Mathieu](https://placide.com/) |  some text  |
+| [Techniseal](https://techniseal.com/) |  some text  |
+| [Olymel Food Service](https://olymelfoodservice.com/fr/) |  some text  |
+| [Aurelia Gloves](https://aureliaglovescanada.com/) |  some text  |
+| [Roulottes Rémillard](https://roulottesremillard.com/) |  some text  |
+| [SQC](https://www.sqc.ca/) |  some text  |
+| [Le Vignoble Du Ruisseau](https://www.levignobleduruisseau.com/) |  some text  |
+| [LVAB](http://lvab.ca/) |  some text  |
+| Déployment POS |  Some text |
+| Démenagement Parc Informatique |  some text  |
+| Déployment Téléphonie IP [3CX](https://www.3cx.com/) |  some text  |
+|  Déployment Accès Électronique [Kaba](https://www.dormakaba.com/) |  some text  |
 
 ### Used By
 |  Compagnie  |  Poste  |  De  |  À  |  Description  |
