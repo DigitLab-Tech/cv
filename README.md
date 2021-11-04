@@ -16,6 +16,7 @@
 	+ ##### SQL
 	+ ##### CSS
 + #### Frameworks
+ 	+ ##### Laravel
 	+ ##### Magento 2
 	+ ##### Wordpress(Woocommerce)
 	+ ##### VueJs
@@ -27,10 +28,11 @@
 	+ ##### Figma
 	+ ##### GSuite
 + #### Autres
+ 	+ ##### Git
 	+ ##### Contentful
 	+ ##### Netlify
 	+ ##### MailChimp 
-	+ ##### Git
+	+ ##### Hubspot
 	
 ### Used For
 | Projets | Description |
