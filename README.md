@@ -52,7 +52,8 @@
 ### Used By
 |  Compagnie  |  Poste  |  De  |  À  |  Description  |
 | :------------: | ------------ | ------------ | ------------ | ------------ |
-| [Nabupro](https://nabupro.com/) | Développeur Fullstack |Septembre 2020 | Maintenant | Développement sur Laravel |
+| [Cégep Limoilou](https://www.cegeplimoilou.ca/) | Enseignant chargé de cours |Novembre 2022 | Avril 2023 | Enseignement du cours Interface Mobile |
+| [Nabupro](https://nabupro.com/) | Développeur Fullstack |Septembre 2020 | Avril 2022 | Développement sur Laravel |
 | [Agence Mxo](https://mxo.agency/) | Développeur Backend |Mai 2018 | Février 2020 | Développement sur Magento 2 et WooCommerce |
 | [Le Vignoble Du Ruisseau](https://www.levignobleduruisseau.com/) | Tech Manager  | Mai 2016 | Avril 2018 | Développement sur Magento 1 & Responsable de la réalisation de tous projets technologiques |
 | [Infotech](https://www.infotechdev.com/) | Développeur Fullstack | Janvier 2016 | Mars 2018 | Développement d'ERP adapté pour les municipalités construit en VBA. Mise à jour manuelle directement chez le client |
