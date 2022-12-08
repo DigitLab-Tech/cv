@@ -1,6 +1,8 @@
 # Cédrick Plante
 ### Développeur Web Fullstack
 ### Features
+- Aime apprendre
+- Aime partager ses connaissances
 - Compatible avec plusieurs technologies
 - Près pour la vente en ligne
 - Rarement à cours de solutions
