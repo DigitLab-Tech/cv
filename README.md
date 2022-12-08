@@ -33,6 +33,9 @@
 	+ ##### Netlify
 	+ ##### MailChimp 
 	+ ##### Hubspot
+
+### Extra
+ + Participation à un contrat de 17h d'accompagnement de cours pour le Cégep Limoilou. Cela m'aura permit de travailler auprès d'un professeur expérimenté et de me faire la main avant d'entreprendre mon propre cours. J'ai eu la chance de donner un cours complet sur l'utilisation du css et j'ai pu aider les élèves lors des ateliers effectués en classes.
 	
 ### Used For
 | Projets | Description |
@@ -52,7 +55,7 @@
 ### Used By
 |  Compagnie  |  Poste  |  De  |  À  |  Description  |
 | :------------: | ------------ | ------------ | ------------ | ------------ |
-| [Cégep Limoilou](https://www.cegeplimoilou.ca/) | Enseignant chargé de cours |Novembre 2022 | Avril 2023 | Enseignement du cours Interface Mobile |
+| [Cégep Limoilou](https://www.cegeplimoilou.ca/) | Enseignant chargé de cours |Novembre 2022 | Maintenant | Enseignement du cours Interface Mobile |
 | [Nabupro](https://nabupro.com/) | Développeur Fullstack |Septembre 2020 | Avril 2022 | Développement sur Laravel |
 | [Agence Mxo](https://mxo.agency/) | Développeur Backend |Mai 2018 | Février 2020 | Développement sur Magento 2 et WooCommerce |
 | [Le Vignoble Du Ruisseau](https://www.levignobleduruisseau.com/) | Tech Manager  | Mai 2016 | Avril 2018 | Développement sur Magento 1 & Responsable de la réalisation de tous projets technologiques |
