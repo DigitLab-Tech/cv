@@ -35,7 +35,7 @@
 	+ ##### Hubspot
 
 ### Extra
- + J'ai participé à un contrat de 17h d'accompagnement de cours au le Cégep Limoilou. Cela m'aura permis de travailler auprès d'un professeur expérimenté et de me faire la main avant d'entreprendre l'enseignement mon propre cours. J'ai eu la chance de donner un cours complet sur l'utilisation du Css et d'aider les élèves lors des ateliers effectués en classes.
+ + J'ai participé à un contrat de 17h d'accompagnement de cours au Cégep Limoilou. Cela m'aura permis de travailler auprès d'un professeur expérimenté et de me faire la main avant d'entreprendre l'enseignement mon propre cours. J'ai eu la chance de donner un cours complet sur l'utilisation du Css et d'aider les élèves lors des ateliers effectués en classes.
  + Je participe et j'ai participé à une dizaine d'ateliers de perfectionnement offerts par le cégep Limoilou. Ces formations sont une occasion d'échanger et d'en connaître davantage sur la réalité des autres professeurs. Les sujets qui y sont abordés comme la rétroaction et l'évaluation me permettent d'être en constante évolution et d'offrir un meilleur enseignement à mes élèves.
 	
 ### Used For
