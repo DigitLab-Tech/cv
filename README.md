@@ -23,14 +23,14 @@
         + ##### React
 	+ ##### Wordpress(Woocommerce)
 	+ ##### VueJs
-	+ ##### Magento 1 
+	+ ##### Magento 1
+ 	+ ##### Shopify 	
 + #### Utilitaires
 	+ ##### PhpStorm
 	+ ##### Photoshop
 	+ ##### Ilustrator
 	+ ##### Figma
 	+ ##### GSuite
- 	+ #####  
 + #### Autres
 	+ ##### Jira
  	+ ##### Bitbucket
