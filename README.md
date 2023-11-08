@@ -14,9 +14,9 @@
 ### Tools In My Pocket
 + #### Langages
 	+ ##### PHP
-	+ ##### Javascript
+	+ ##### Javascript/Typescript
 	+ ##### SQL
-	+ ##### CSS
+	+ ##### CSS/Tailwind
 + #### Frameworks
  	+ ##### Laravel
 	+ ##### Magento 2
@@ -24,14 +24,15 @@
 	+ ##### Wordpress(Woocommerce)
 	+ ##### VueJs
 	+ ##### Magento 1
- 	+ ##### Shopify 	
+ 	+ ##### Shopify(Hydrogen) 	
 + #### Utilitaires
 	+ ##### PhpStorm
 	+ ##### Photoshop
 	+ ##### Ilustrator
 	+ ##### Figma
 	+ ##### GSuite
-+ #### Autres
++ #### Autres 
+	+ ##### Docker
 	+ ##### Jira
  	+ ##### Bitbucket
    	+ ##### Confluence  
