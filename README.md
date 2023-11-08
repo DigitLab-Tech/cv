@@ -1,5 +1,5 @@
 # Cédrick Plante
-### Développeur Web Fullstack
+### Développeur Fullstack
 ### Features
 - Aime apprendre
 - Aime partager ses connaissances
@@ -20,16 +20,21 @@
 + #### Frameworks
  	+ ##### Laravel
 	+ ##### Magento 2
+        + ##### React
 	+ ##### Wordpress(Woocommerce)
 	+ ##### VueJs
-	+ ##### Magento 1
+	+ ##### Magento 1 
 + #### Utilitaires
 	+ ##### PhpStorm
 	+ ##### Photoshop
 	+ ##### Ilustrator
 	+ ##### Figma
 	+ ##### GSuite
+ 	+ #####  
 + #### Autres
+	+ ##### Jira
+ 	+ ##### Bitbucket
+   	+ ##### Confluence  
  	+ ##### Git
 	+ ##### Contentful
 	+ ##### Netlify
@@ -38,7 +43,7 @@
 	
 ### Used For
 | Projets | Description |
-| :------------: | :------------ |
+| :------------: | :------------ | 
 | Enseignement | L'enseignement est un nouveau défi pour moi. Pour le moment, mes réalisations y sont minime. J'ai participé à un contrat de 17h d'accompagnement de cours au Cégep Limoilou. Cela m'aura permis de travailler auprès d'un professeur expérimenté et de me faire la main avant d'entreprendre l'enseignement de mon propre cours. J'ai eu la chance de donner un cours complet sur l'utilisation du Css et d'aider les élèves lors des ateliers effectués en classe. Je participe et j'ai participé à une dizaine d'ateliers de perfectionnement offerts par le cégep Limoilou. Ces formations sont une occasion d'échanger et d'en connaître davantage sur la réalité des autres professeurs. Les sujets qui y sont abordés comme la rétroaction et l'évaluation me permettent d'être en constante évolution et d'offrir un meilleur enseignement à mes élèves. J'y met tout cœur. J'ai produit l'intégralité du contenu de mon cours, j'offre beaucoup de disponibilité et je crois donner un bon niveau de rétroaction. | 
 | [Nabupro](https://nabupro.com/) | Après une soumission salée concernant la refonte du site web marketing, j'ai proposé de prendre en charge le projet. Mon objectif était simple, être le plus dry possible en offrant un design souple et attrayant. Le site est un [Wordpress](https://wordpress.org/), le theme est 100% de moi(CSS, JS) et intégré à [Gutenberg](https://wordpress.org/gutenberg/). Pratiquement aucune librairie n'aura été utilisé. L'intégration d'[hubspot](https://www.hubspot.com/) aura permise au gestionnaire de contenue de gérer les formulaires via la console. [Pods](https://pods.io/) aura été d'un grand secours afin de mettre en place rapidement une interface pour les customs post type.  Les formes permettant de créer le parallax du background sont des svg généré aléatoirement en JS. L'animation sur la page d'accueils a été fait a la main à l'aide de [inkscape](https://inkscape.org/fr/) et [svgator](https://www.svgator.com/) | 
 | [Sylvie Dubois Design](https://sylviedubois.design/) | Projet 100% Cédrick Plante, 0$/mois pour l'hébergement. Le logo créé avec Illustrator et le design avec [Figma](https://www.figma.com/) ont été présenté au client avant d'entreprendre le code. [Contentful](https://www.contentful.com/) agit comme un cms, mais aussi comme une interface permetant de modifier l'apparence du site. J'utilise [VueJs](https://vuejs.org/) comme framework de templating. [Netlify](https://www.netlify.com/) permet d'héberger le code et d'envoyer une notification lorsque le formulaire est rempli. Lors du build, les donnés et assets vitals sont téléchargé via [Contentful](https://www.contentful.com/).
@@ -55,6 +60,7 @@
 ### Used By
 |  Compagnie  |  Poste  |  De  |  À  |  Description  |
 | :------------: | ------------ | ------------ | ------------ | ------------ |
+| [Novatize](https://www.cegeplimoilou.ca/) | Développeur Fullstack |Avril 2023 | Maintenant | Développement sur Magento 2 et Shopify Hydrogen (Headless) |
 | [Cégep Limoilou](https://www.cegeplimoilou.ca/) | Enseignant chargé de cours |Novembre 2022 | Maintenant | Enseignement du cours Interface Mobile |
 | [Nabupro](https://nabupro.com/) | Développeur Fullstack |Septembre 2020 | Avril 2022 | Développement sur Laravel |
 | [Agence Mxo](https://mxo.agency/) | Développeur Backend |Mai 2018 | Février 2020 | Développement sur Magento 2 et WooCommerce |
