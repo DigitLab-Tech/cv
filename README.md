@@ -20,7 +20,7 @@
 + #### Frameworks
  	+ ##### Laravel
 	+ ##### Magento 2
-        + ##### React
+	+ ##### React
 	+ ##### Wordpress(Woocommerce)
 	+ ##### VueJs
 	+ ##### Magento 1
